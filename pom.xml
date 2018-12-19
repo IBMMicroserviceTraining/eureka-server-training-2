@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ibm</groupId>
-	<artifactId>eureka-server-training</artifactId>
+	<artifactId>eureka-server-training-2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>eureka-server-training</name>
+	<name>eureka-server-training-2</name>
 	<description>eureka server for training</description>
 
 	<properties>
